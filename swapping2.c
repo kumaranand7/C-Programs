@@ -15,4 +15,4 @@ a=a-b;
 printf("AFTER SWAPPING \n");
 printf("value of a is %d \n value of b is %d",a,b);
 
-}
+} 
